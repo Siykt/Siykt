@@ -14,3 +14,4 @@
 ![Nest](https://img.shields.io/badge/-Next-%232C3A42?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![Vite](https://img.shields.io/badge/-Vite-%232C3A42?style=for-the-badge&logo=vite)
 ![Tailwind](https://img.shields.io/badge/-tailwind-%232C3A42?style=for-the-badge&logo=tailwindcss)
+![Docker](https://img.shields.io/badge/-docker-%232C3A42?style=for-the-badge&logo=docker)
