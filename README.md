@@ -3,7 +3,7 @@
 - 🤔 编写高质量、可维护、易扩展的程序代码
 
 ## Github 统计
-![](https://github-readme-stats.vercel.app/api?username=Siykt&count_private=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 技术栈
 
