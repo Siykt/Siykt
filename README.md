@@ -1,11 +1,8 @@
-## Hi there 👋
-
-- 🤔 编写高质量、可维护、易扩展的程序代码
-
-## Github 统计
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siykt)](https://github.com/anuraghazra/github-readme-stats)
 
-## 技术栈
+![](https://github-profile-trophy.vercel.app/?username=siykt&column=7&margin-w=15&margin-h=15)
+
+## Skills
 
 ![Vue](https://img.shields.io/badge/-Vue-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=for-the-badge&logo=React)
