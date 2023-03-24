@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siykt)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://profile-counter.glitch.me/siykt/count.svg)
+
 ![](https://github-profile-trophy.vercel.app/?username=siykt&column=7&margin-w=15&margin-h=15)
 
 ## Skills
@@ -12,3 +14,4 @@
 ![Vite](https://img.shields.io/badge/-Vite-%232C3A42?style=for-the-badge&logo=vite)
 ![Tailwind](https://img.shields.io/badge/-tailwind-%232C3A42?style=for-the-badge&logo=tailwindcss)
 ![Docker](https://img.shields.io/badge/-docker-%232C3A42?style=for-the-badge&logo=docker)
+
