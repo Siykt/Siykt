@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siykt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siykt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://profile-counter.glitch.me/siykt/count.svg)
 
