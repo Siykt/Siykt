@@ -2,7 +2,7 @@
 
 ![Count](https://profile-counter.glitch.me/siykt/count.svg)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siykt&layout=compact&count_private=true&theme=dracula)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siykt&layout=compact&count_private=true&theme=dracula&hide=html,css,less,scss)
 
 ## Skills
 
