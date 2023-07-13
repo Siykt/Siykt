@@ -1,8 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siykt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=Siykt&include_all_commits=true)
 
-![](https://profile-counter.glitch.me/siykt/count.svg)
+![Count](https://profile-counter.glitch.me/siykt/count.svg)
 
-![](https://github-profile-trophy.vercel.app/?username=siykt&column=7&margin-w=15&margin-h=15)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siykt&layout=compact&count_private=true&theme=dracula)
 
 ## Skills
 
