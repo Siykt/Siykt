@@ -1,6 +1,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Siykt&include_all_commits=true)
 
-![Count](https://profile-counter.glitch.me/siykt/count.svg)
+![](https://komarev.com/ghpvc/?username=Siykt&color=blue)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siykt&layout=compact&count_private=true&theme=dracula&hide=html,css,less,scss)
 
