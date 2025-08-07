@@ -1,6 +1,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Siykt&include_all_commits=true)
 
-![](https://komarev.com/ghpvc/?username=Siykt&color=blue)
+![](https://count.getloli.com/@Siykt?name=Siykt&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siykt&layout=compact&count_private=true&theme=dracula&hide=html,css,less,scss)
 
